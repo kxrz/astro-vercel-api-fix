@@ -330,6 +330,6 @@ Found this helpful? Have additional insights? Feel free to open an issue or PR t
 
 **License**: MIT  
 **Author**: Florent / LesWWW  
-**Last Updated**: November 2024
+**Last Updated**: November 2025
 
 This guide is based on real production experience solving API deployment issues on Astro + Vercel. Hope it saves you hours of debugging! 🚀
